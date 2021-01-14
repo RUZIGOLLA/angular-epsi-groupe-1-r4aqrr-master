@@ -1,0 +1,13 @@
+form {
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  // width: 100%;
+  margin: auto;
+  justify-content: center;
+  height: calc(50vh - 50px);
+}
+
+h1 {
+  text-align: center;
+}
